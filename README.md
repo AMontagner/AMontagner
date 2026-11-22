@@ -26,6 +26,7 @@ I’m exploring how to operate model inference on Kubernetes. I’m particularly
 
 ## Projects and research
 
+- **[Kubernetes Rollout Lab](https://github.com/AMontagner/kubernetes-rollout-lab)** — A hands-on lab for diagnosing stalled Deployments, inspecting Pod events, and verifying recovery after a rollback.
 - **[Availability SLO Checker](https://github.com/AMontagner/availability-slo-checker)** — A Python CLI that turns request and failure counts into availability, error-budget burn rate, and remaining error budget. It returns a failing exit code when the SLO is missed, so it can run in CI.
 - **[NetCoreAppDeployment](https://github.com/AMontagner/NetCoreAppDeployment)** — My .NET application deployment repository.
 - **[ZappyApply](https://zappyapply.com)** — A browser-based project I built to streamline job applications.
