@@ -26,6 +26,7 @@ I’m exploring how to operate model inference on Kubernetes. I’m particularly
 
 ## Projects and research
 
+- **[Availability SLO Checker](https://github.com/AMontagner/availability-slo-checker)** — A Python CLI that turns request and failure counts into availability, error-budget burn rate, and remaining error budget. It returns a failing exit code when the SLO is missed, so it can run in CI.
 - **[NetCoreAppDeployment](https://github.com/AMontagner/NetCoreAppDeployment)** — My .NET application deployment repository.
 - **[ZappyApply](https://zappyapply.com)** — A browser-based project I built to streamline job applications.
 - **D.R.O.N.E.S.** — A Java Android app for DJI Phantom drones with flight controls and waypoint mission integration. [App demo](https://www.youtube.com/watch?v=l-W9j8QPAhs) · [Flight test](https://www.youtube.com/watch?v=yQ9hOt_C9mM) · [Critical design review](https://docs.google.com/presentation/d/1VMN4eEQsCah8OuNE7A0J4Y-3l-ItyDGlp9vXd8OrSeI/edit?usp=sharing)
