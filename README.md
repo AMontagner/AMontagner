@@ -32,6 +32,10 @@ I’m exploring how to operate model inference on Kubernetes. I’m particularly
 - **Lockheed Martin engineering work** — Developed C++ simulation software and automated manual tests with Python. [Public program overview](https://www.youtube.com/watch?v=h449oIjg2kY)
 - **UCF honors thesis** — Used R to study socioeconomic influences on Hispanic voter party affiliation. [Published thesis](https://stars.library.ucf.edu/honorstheses1990-2015/1815/)
 
+## Portfolio Projects
+
+- **[Availability SLO and error budget checker](projects/2026-11-21-availability-slo-checker)** — Python CLI that calculates request availability, error budget burn, and remaining failure allowance.
+
 ## Certifications
 
 Microsoft DevOps Engineer Expert (AZ-400) · Azure Administrator (AZ-104) · Azure Developer (AZ-204) · AWS Solutions Architect – Associate · HashiCorp Terraform Associate
