@@ -34,7 +34,7 @@ I’m exploring how to operate model inference on Kubernetes. I’m particularly
 
 ## Portfolio Projects
 
-- **[Availability SLO and error budget checker](projects/2026-11-21-availability-slo-checker)** — Python CLI that calculates request availability, error budget burn, and remaining failure allowance.
+- **[Availability SLO and error budget checker](https://github.com/AMontagner/portfolio-2026-11-21)** — Python CLI that calculates request availability, error budget burn, and remaining failure allowance.
 
 ## Certifications
 
