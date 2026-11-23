@@ -1,6 +1,6 @@
 # Hey, I’m Angelo Montagner 👋
 
-**Senior DevOps Engineer · Kubernetes · AI Platform Engineering**
+**Senior DevOps Engineer · AI Platform Engineering**
 
 I’m a Senior DevOps Engineer with a software engineering background and 10+ years in enterprise environments. I build and secure Azure and AWS infrastructure, automate software releases, and lead production incident response. My current focus is applying those practices to Kubernetes-based AI platforms.
 
