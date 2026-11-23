@@ -27,8 +27,6 @@ I’m exploring how to operate model inference on Kubernetes. I’m particularly
 
 - **[Fieldnotes — Hybrid Search RAG](https://github.com/AMontagner/hybrid-search-rag)** — A deployed document search and Q&A app with a FastAPI backend, web UI, and Docker packaging. Its cloud mode combines Pinecone vector search with BM25 using reciprocal rank fusion, reranks results with Cohere, and uses Claude to generate answers with source citations.
 
-More AI platform projects to come.
-
 
 ## Projects and research
 
