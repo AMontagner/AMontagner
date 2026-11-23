@@ -2,23 +2,26 @@
 
 **Senior DevOps Engineer · Kubernetes · AI Platform Engineering**
 
-I build cloud platforms and automate the path from code to deployment. My work includes deploying AKS clusters with Entra ID and Kubernetes RBAC, bringing existing Azure infrastructure under Terraform, and building reusable Azure DevOps pipelines. I’m applying that experience to the infrastructure that runs AI workloads.
+I’m a Senior DevOps Engineer with a software engineering background and 10+ years in enterprise environments. I build and secure Azure and AWS infrastructure, automate software releases, and lead production incident response. My current focus is applying those practices to Kubernetes-based AI platforms.
 
-[At a glance](#at-a-glance) · [AI platform focus](#ai-platform-focus) · [Projects and research](#projects-and-research) · [Certifications](#certifications)
+Orlando, FL · English and Spanish
 
----
+[Selected experience](#selected-experience) · [Technical stack](#technical-stack) · [AI platform focus](#ai-platform-focus) · [Projects and research](#projects-and-research) · [Certifications](#certifications)
 
-## At a glance
+## Selected experience
 
-| Area | Selected work |
+| Role | Highlights |
 | --- | --- |
-| ☸️ **Kubernetes** | Deployed development and QA AKS clusters with Entra ID integration, RBAC, and Azure load balancing. |
-| ☁️ **Infrastructure as code** | Imported existing Azure resources into Terraform and migrated Bicep deployments to version-controlled Terraform configurations. |
-| 🚀 **CI/CD** | Built multistage Azure DevOps YAML pipelines and reusable variable groups. Maintained Jenkins pipelines for build, test, and release. |
-| 📦 **Application modernization** | Built C#/.NET Core services, helped break a legacy monolith into microservices, and migrated workloads from Azure Web Apps to Azure Container Apps. Built Docker images and published them to Azure Container Registry. |
-| 📊 **Operational automation** | Built a Python and AWS Lambda workflow that forwarded policy events to Splunk and created dashboards to support audits. |
+| **Citizens Bank · Senior DevSecOps Engineer · 2022–Present** | Designed AKS clusters for microservices serving 4M+ daily users, moving releases from weekly to multiple times a day while maintaining 99.97% uptime. Reduced incident MTTR from 47 to 12 minutes with Dynatrace monitoring and Splunk-to-PagerDuty alerting. Standardized Azure Pipelines and Terraform releases, migrated Bicep-managed resources to Terraform, and integrated Wiz CLI into Jenkins and Azure Pipelines. |
+| **Lockheed Martin · DevOps Engineer · 2016–2022** | Cut infrastructure deployments from 45 minutes to under 5 minutes with GitHub Actions. Migrated on-premises applications to Azure, implemented network segmentation and shared API Management, and rolled out HashiCorp Vault across 50+ microservices with 30-day credential rotation. |
+| **Siemens (via Infosoft) · Software Engineer · 2013–2016** | Migrated legacy .NET monoliths to containerized microservices and improved resource utilization by 60%. Reduced annual AWS infrastructure costs by $100K through rightsizing, autoscaling, Spot instances, and Lambda. Operated ECS workloads with CloudWatch and configured cross-region RDS replication for disaster recovery. |
 
-**Tools I work with** · Azure · AWS · Kubernetes · Terraform · Docker · Azure DevOps · Jenkins · Argo CD · Python · PowerShell · C#/.NET
+## Technical stack
+
+- **Cloud and containers** — Azure, AWS, AKS, EKS, ECS, Azure Container Apps, Docker, Argo CD
+- **Infrastructure and delivery** — Terraform, Bicep/ARM, AWS CloudFormation, AWS CDK, Ansible, Jenkins, Azure Pipelines, GitHub Actions
+- **Security and identity** — Wiz, Prisma Cloud, Microsoft Defender for Cloud, Entra ID, Azure RBAC, AWS IAM, HashiCorp Vault
+- **Observability and automation** — Splunk, Dynatrace, Datadog, New Relic, Python, PowerShell, C#/.NET Core
 
 ## AI platform focus
 
@@ -36,4 +39,11 @@ I’m exploring how to operate model inference on Kubernetes. I’m particularly
 
 ## Certifications
 
-Microsoft DevOps Engineer Expert (AZ-400) · Azure Administrator (AZ-104) · Azure Developer (AZ-204) · AWS Solutions Architect – Associate · HashiCorp Terraform Associate
+- **Azure** — DevOps Engineer Expert (AZ-400), Azure Administrator (AZ-104), Azure Developer (AZ-204), Azure Fundamentals (AZ-900), Security, Compliance, and Identity Fundamentals (SC-900)
+- **AWS** — DevOps Engineer – Professional, Solutions Architect – Associate, Cloud Practitioner
+- **Kubernetes and Docker** — Certified Kubernetes Administrator (CKA), Docker Certified Associate (DCA)
+- **HashiCorp** — Terraform Associate, Vault Associate
+
+## Education
+
+**University of Central Florida** · B.S. in Computer Science and B.A. in Political Science · Magna Cum Laude
