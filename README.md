@@ -10,11 +10,9 @@ Orlando, FL · English and Spanish
 
 ## Selected experience
 
-| Role | Highlights |
-| --- | --- |
-| **Citizens Bank · Senior DevSecOps Engineer · 2022–Present** | Designed AKS clusters for microservices serving 4M+ daily users, moving releases from weekly to multiple times a day while maintaining 99.97% uptime. Reduced incident MTTR from 47 to 12 minutes with Dynatrace monitoring and Splunk-to-PagerDuty alerting. Standardized Azure Pipelines and Terraform releases, migrated Bicep-managed resources to Terraform, and integrated Wiz CLI into Jenkins and Azure Pipelines. |
-| **Lockheed Martin · DevOps Engineer · 2016–2022** | Cut infrastructure deployments from 45 minutes to under 5 minutes with GitHub Actions. Migrated on-premises applications to Azure, implemented network segmentation and shared API Management, and rolled out HashiCorp Vault across 50+ microservices with 30-day credential rotation. |
-| **Siemens (via Infosoft) · Software Engineer · 2013–2016** | Migrated legacy .NET monoliths to containerized microservices and improved resource utilization by 60%. Reduced annual AWS infrastructure costs by $100K through rightsizing, autoscaling, Spot instances, and Lambda. Operated ECS workloads with CloudWatch and configured cross-region RDS replication for disaster recovery. |
+- Designed AKS clusters for microservices serving 4M+ daily users, moving releases from weekly to multiple times a day while maintaining 99.97% uptime. Reduced incident MTTR from 47 to 12 minutes with Dynatrace monitoring and Splunk-to-PagerDuty alerting. Standardized Azure Pipelines and Terraform releases, migrated Bicep-managed resources to Terraform, and integrated Wiz CLI into Jenkins and Azure Pipelines.
+- Cut infrastructure deployments from 45 minutes to under 5 minutes with GitHub Actions. Migrated on-premises applications to Azure, implemented network segmentation and shared API Management, and rolled out HashiCorp Vault across 50+ microservices with 30-day credential rotation.
+- Migrated legacy .NET monoliths to containerized microservices and improved resource utilization by 60%. Reduced annual AWS infrastructure costs by $100K through rightsizing, autoscaling, Spot instances, and Lambda. Operated ECS workloads with CloudWatch and configured cross-region RDS replication for disaster recovery.
 
 ## Technical stack
 
@@ -25,7 +23,10 @@ Orlando, FL · English and Spanish
 
 ## AI platform focus
 
-I’m exploring how to operate model inference on Kubernetes. I’m particularly interested in GPU scheduling and utilization, versioned model deployments with rollback, and monitoring for latency, throughput, and GPU saturation.
+- **[Fieldnotes — Hybrid Search RAG](https://github.com/AMontagner/hybrid-search-rag)** — A deployed document search and Q&A app with a FastAPI backend, web UI, and Docker packaging. Its cloud mode combines Pinecone vector search with BM25 using reciprocal rank fusion, reranks results with Cohere, and uses Claude to generate answers with source citations.
+
+More AI platform projects to come.
+
 
 ## Projects and research
 
